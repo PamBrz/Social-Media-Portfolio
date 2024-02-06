@@ -1,5 +1,5 @@
 # Social-Media-Portfolio
-Social Media Portfolio Delivery of Pamela Brzoza (Matr. Nr.: 12515663)
+Social Media Portfolio Delivery of Pamela Brzoza
 
 ## Overview
 This website serves as a portfolio for the course "09571 Social Media - Einführung in das Gestalten von Online-Medien". It provides the content we've learned in the course and the exercises we did in class.

@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Poppins'
+}
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+.container h2 {
+    text-align: center;
+}
+.container a {
+    display: block;
+    margin: 1%;
+    text-align: left;
+    position: absolute;
+    top: 115px;
+    left: 45px;
+    border-color: #ffffff;
+    color: #ffffff;
+}
+.section h2 {
+    margin-bottom: 30px; 
+}
+.subsection p {
+    margin-bottom: 15px; 
+}
+
+
+

@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Poppins';
+}
+
+.Portfolio-text {
+    text-align: center;
+    color: #ffffff;
+    max-width: 600px;
+    padding-top: 10px;
+    margin: 0 auto;
+    font-size: 28px;
+}
+
+.online-media {
+    color: #ffffff; 
+    font-weight: bold;
+}
+.container {
+    text-align: center;
+    padding-top: 10%;
+}
